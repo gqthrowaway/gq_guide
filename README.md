@@ -5,7 +5,7 @@ This guide will also explain the "Why" for those who are interested but this gui
 Towards the end of the guide I will list brands, however it is up to the reader to do the shopping and if you need help using Google and online shopping, you are useless to begin with.
 
 
-#### Sike nigga go get a 14.5 or 11.5 URGI/Super Duty upper and a Crye SPC, end of guide.
+### Sike nigga go get a 14.5 or 11.5 URGI/Super Duty upper and a Crye SPC, end of guide.
 
 Kidding, but you are free to take that advice, it's closer to optimal than people think. Continued later on in the guide.
 
