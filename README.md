@@ -17,6 +17,8 @@ Rifle:
 - Aimpoint or Holosun if you're cheap
 - Magnifier can come later
 - Surefire M640DFT PRO
+- If your lower does not have a stock or grip, Magpul. Milspec SLS, SLK, or CTR.
+- Geissele SSA/SAA-E on sale, SSF if you're feeling devious later. 
 
 Pistol:
 - Glock 17 MOS or 47 MOS, whatever is cheaper. They are functionally the same, the difference is the shorter 47 frame at the front because Glock is standardizing on the 19 length compact recoil spring.
