@@ -99,6 +99,8 @@ For "serious users" LPVOs are mainly between Vortex's Razor series and Nightforc
 At time of writing (March '24):
 
 Rifle: Surefire, Modlite.
+
+
 Pistol: Surefire, Streamlight.
 
 Do you own research on what model is latest and greatest at the time, do not worry about continuously upgrading because it's really not that different; this applies to most of the guide. 
