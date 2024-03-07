@@ -32,9 +32,9 @@ Load Bearing:
 - Crye M4 detachable flap (Crye stuff is all compatible so it's likely listed under the AVS suite on the site. I suggest you explore the site.)
 - DON'T get the Crye Smart Pouches, they are not that good, because of an autistic feature they are floppy when mounted. The Maritime ones are better because they lack that feature.
 - AWS 50657 ASSAULT PACK in Multicam 
-- T-Rex Arms Speed Belt in Multicam
-- 2 x Spiritus or Shaw Concepts Elastic pistol magazine pouches.
 - T-Rex Arms Quad Flap Chest Rig in Multicam
+- T-Rex Arms Speed Belt in Multicam
+- 2 x Spiritus or Shaw Concepts Elastic pistol magazine pouches for your belt.
 - For individual pouches and everything, that can be discussed later after some time under your equipment but consider what is necessary to carry and where. I will list brands later for your personal research.
 
 
