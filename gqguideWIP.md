@@ -17,7 +17,8 @@ Rifle:
 - Magnifier can come later
 - Surefire M640DFT PRO (As of March '24)
 - If your lower does not have a stock or grip, Magpul. Milspec SLS, SLK, or CTR.
-- Geissele SSA 
+- Geissele SSA
+- 10 x Magpul Gen 3 PMAGs
 
 Pistol:
 - Glock 47 MOS
