@@ -33,6 +33,7 @@ Load Bearing:
 - DON'T get the Crye Smart Pouches, they are not that good, because of an autistic feature they are floppy when mounted. The Maritime ones are better because they lack that feature.
 - AWS 50657 ASSAULT PACK in Multicam 
 - T-Rex Arms Speed Belt in Multicam
+- 2 x Spiritus or Shaw Concepts Elastic pistol magazine pouches.
 - T-Rex Arms Quad Flap Chest Rig in Multicam
 - For individual pouches and everything, that can be discussed later after some time under your equipment but consider what is necessary to carry and where. I will list brands later for your personal research.
 
