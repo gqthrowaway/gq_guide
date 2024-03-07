@@ -40,7 +40,7 @@ Load Bearing:
 
 # Primary and Secondary Fighting Weapon
 
-### Primary Weapon
+## Primary Weapon
 Your rifle and sidearm are the basis of you being an effective combatant; this where many fall into folly of making a super personalized rifle and pistol in an attempt to either differentiate or tailor for their environment/usecase when they can barely shoot or move effectively. This mindset is entirely wrong, the miniscule improvements in fancy parts is irrelevant and usually they have their own downsides; US Army Natick Labs, NSWC Crane, JFKSWCS, Range 37, EOTG, FBI, etc all spend billions of your tax dollars in having TBI-riddled service members and melvins research close-to-optimal fighting solutions, whether or not that research is fielded or realized is a different story. 
 
 ### To make this simple, functionally speaking for a 5.56 AR-15, a 14.5 and/or an 11.5 upper and one lower will cover all your basic needs. 16 instead of 14.5 if you want no ATF legal grey area. 
@@ -48,14 +48,16 @@ Your rifle and sidearm are the basis of you being an effective combatant; this w
 There are other lengths for more specialized guns, namely marksman rifles and .300BO/concealable rifles but these are not a concern for anyone reading this guide at the moment.
 
 The reasoning behind 11.5 and 14.5/16 is that they're standardized lengths, so rails are generally designed with these lengths in mind. 
-14.5/16 is a handy standardized length the military and market has revolved around for multiple decades, without any downsides or weird caveats while being the ideal general purpose length for 5.56
+
+14.5/16 is a handy standardized length the military and market has revolved around for multiple decades, without any downsides or weird caveats while being the ideal general purpose length for 5.56. 
+
 11.5 specifically is the min-maxed length for shorter engagements and sits right before lengths like 10.3/5 where potential issues arise regarding suppressor usage, gasing, backpressure, flash, rounds not being as effective, etc.
 
-To make this even simpler, you can directly just copy the 11.5 and 14.5 that SOCOM issues; behold the M4A1 URG-I or "Upper Reciever Group - Improved"; the specifics are not important but it's basically just a Government profile upper with a Geissele Mk16 rail. The reciever does not really matter. How easy! Now when your gang gets all together, there's lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
+To make this even simpler, you can directly just copy the 11.5 and 14.5 that SOCOM issues; behold the M4A1 URG-I or "Upper Reciever Group - Improved"; the specifics are not important but it's basically just a Government profile upper with a Geissele Mk16 rail. The Super Duty variant is a commerical, slightly improved version. The reciever does not really matter. How easy! Now when your gang gets all together, there's lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
 
 
 
-### Secondary Weapon
+## Secondary Weapon
 Glock with a Surefire X300 Turbo.
 
 "oh but I think x has a better trigger" blow it out your ass it does not matter, the differences are negligible or the alternative has it's own faults.
@@ -73,7 +75,7 @@ Now to the part where people get hung up, optics for your pistol. Trijicon, Leup
 If you already have a dedicated carry gun or have a tiny pistol in mind then a 19 is irrelevant to you. Carrying a full sized glock is also fairly easy, the difference in size is not that big so don't think too hard on min-maxing.
 
 
-### Primary Optic
+## Primary Optic
 
 
 Red dot: Eotech, Aimpoint. Holosun if you're cheap, Done.
