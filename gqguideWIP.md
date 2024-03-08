@@ -74,7 +74,7 @@ Glock 47 with a Surefire X300-A Turbo and SRO
 
 ### "oh but I think x has a better trigger" blow it out your ass it does not matter, the differences are negligible or the alternative has it's own faults.
 
-![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/glock47sample.jpg "")
+![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/glock47example01.jpg "")
 
 
 The important part of being a fighting group or at least a group that trains together is uniformity. Parts breakage, familiarity, and compatability with aftermarket as well as each others equipment as a group. You forget a magazine or battery? No problem, your buddy has one.
