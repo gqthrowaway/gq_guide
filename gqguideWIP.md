@@ -55,6 +55,8 @@ There are other lengths for more specialized guns, namely marksman rifles and .3
 
 To make this even simpler, you can directly just copy the 11.5 and 14.5 that SOCOM issues; behold the M4A1 URG-I or "Upper Reciever Group - Improved"; the specifics are not important but it's basically just a Government profile upper with a Geissele Mk16 rail. The Super Duty variant is a commerical, slightly improved version. The reciever does not really matter. How easy! Now when your gang gets all together, there's lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
 
+[T-Rex Arms has a page on his URGI build](https://help.trex-arms.com/hc/en-us/articles/4409384763671-14-5-URGI-Loadout)
+
 
 
 ## Secondary Weapon
