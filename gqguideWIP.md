@@ -49,8 +49,6 @@ Your rifle and sidearm are the basis of you being an effective combatant; this w
 
 There are other lengths for more specialized guns, namely marksman rifles and .300BO/concealable rifles but these are not a concern for anyone reading this guide at the moment.
 
-The reasoning behind 11.5 and 14.5/16 is that they're standardized lengths, so rails are generally designed with these lengths in mind. 
-
 14.5/16 is a handy standardized length the military and market has revolved around for multiple decades, without any downsides or weird caveats while being the ideal general purpose length for 5.56. 
 
 11.5 specifically is the min-maxed length for shorter engagements and sits right before lengths like 10.3/5 where potential issues arise regarding suppressor usage, gasing, backpressure, flash, rounds not being as effective, etc.
