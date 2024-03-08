@@ -24,6 +24,7 @@ Rifle:
 - Lower reciever does not matter but I recommend a completed AERO or BCM lower. Should not cost more than $450 (March '24)
 - If your lower does not have a stock or grip, Magpul. Milspec SLS, SLK, or CTR.
 - 15 x Magpul Gen 3 PMAGs
+- Blue Force Gear Vickers Sling
 
 Pistol:
 - Glock 47 MOS
