@@ -90,7 +90,7 @@ Now to the part where people get hung up, optics for your pistol. Trijicon, Leup
 If you already have a dedicated carry gun or have a tiny pistol in mind then a 19 is irrelevant to you. Carrying a full sized glock is also fairly easy, the difference in size is not that big so don't think too hard on min-maxing.
 
 
-## Primary Optic
+## Rifle Optics
 
 
 Red dot: Eotech, Aimpoint. Holosun if you're cheap, Done.
