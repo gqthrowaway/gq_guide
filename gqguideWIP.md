@@ -22,6 +22,7 @@ Rifle:
 - Surefire M640DFT PRO (As of March '24)
 - If your lower does not have a stock or grip, Magpul. Milspec SLS, SLK, or CTR.
 - Geissele SSA
+- Lower reciever does not matter but I recommend a Centurion and assembling it yourself.
 - 10 x Magpul Gen 3 PMAGs
 
 Pistol:
@@ -29,6 +30,7 @@ Pistol:
 - Surefire X300 Turbo
 - Trijicon SRO
 - FCD optic plate for the SRO
+- 5 x Glock OEM Magazines
 - Tenicor Malus Sol Concealment Holster
 - Safariland 6390 RDS holster, mid-ride UBL plate. The Safariland numbering system is asinine and the last number is just what mounting hardware it comes with. Light bearing housing is also irrelevant, 63xx RDS for a Streamlight or Surefire? Doesn't matter, they're the same holster.
 
