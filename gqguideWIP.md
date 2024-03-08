@@ -22,7 +22,7 @@ Rifle:
 - Surefire M640DFT PRO (As of March '24)
 - If your lower does not have a stock or grip, Magpul. Milspec SLS, SLK, or CTR.
 - Geissele SSA
-- Lower reciever does not matter but I recommend a Centurion and assembling it yourself.
+- Lower reciever does not matter but I recommend a completed AERO or BCM lower. Should not cost more than $450 (March 2024)
 - 10 x Magpul Gen 3 PMAGs
 
 Pistol:
