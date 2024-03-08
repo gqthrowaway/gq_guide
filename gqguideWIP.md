@@ -1,6 +1,8 @@
 # Preface
 General guidelines for setting up your equipment on the individual level as well as considerations for when working in groups and high performance shooting. The guide aims to get everyone who is not already kitted to a functional baseline with group logistics and value in mind; it also is intended to provide insight once the reader has reached the point of "now what?".
 
+![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/urgi02.jpg "")
+
 
 This guide will also explain the "Why" for those who are interested but this guide will NOT cover or recommend specific equipment for specialized or personalized purposes. 
 
