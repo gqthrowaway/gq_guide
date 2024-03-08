@@ -66,7 +66,7 @@ To make this even simpler, you can directly just copy the 11.5 and 14.5 that SOC
 
 
 ## Secondary Weapon
-Glock with a Surefire X300 Turbo.
+Glock 47 with a Surefire X300 Turbo and SRO
 
 ### "oh but I think x has a better trigger" blow it out your ass it does not matter, the differences are negligible or the alternative has it's own faults.
 
