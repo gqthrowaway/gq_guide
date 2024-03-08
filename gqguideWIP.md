@@ -1,5 +1,7 @@
 # Preface
-General guidelines for setting up your equipment on the individual level as well as considerations for when working in groups and high performance shooting. 
+General guidelines for setting up your equipment on the individual level as well as considerations for when working in groups and high performance shooting, it aims to get everyone who is not already kitted to a functional baseline with group logistics and value in mind.
+
+
 This guide will also explain the "Why" for those who are interested but this guide will NOT cover equipment for specialized or personalized purposes. 
 
 Towards the end of the guide I will list brands, however it is up to the reader to do the shopping and if you need help using Google and online shopping, you are useless to begin with.
