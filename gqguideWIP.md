@@ -15,6 +15,24 @@ Kidding, but you are free to take that advice, it's closer to optimal than peopl
 
 However if you don't want to think at all:
 
+Order of relevance:
+1. Pistol 
+2. Rifle
+3. Belt/Chest Rig
+4. Sustainment/Ruck
+5. Plate Carrier
+
+
+Pistol:
+- Glock 47 MOS
+- Surefire X300-A Turbo
+- Trijicon SRO
+- FCD optic plate for the SRO
+- 5 x Glock OEM Magazines
+- Tenicor Malus Sol Concealment Holster
+- Safariland 6390 RDS holster, mid-ride UBL plate. The Safariland numbering system is asinine and the last number is just what mounting hardware it comes with. Light bearing housing is also irrelevant, 63xx RDS for a Streamlight or Surefire? Doesn't matter, they're the same holster.
+
+
 Rifle: 
 - 14.5 URGI Upper
 - Holosun 403R
@@ -26,15 +44,7 @@ Rifle:
 - 15 x Magpul Gen 3 PMAGs
 - Blue Force Gear Vickers Sling
 
-Pistol:
-- Glock 47 MOS
-- Surefire X300-A Turbo
-- Trijicon SRO
-- FCD optic plate for the SRO
-- 5 x Glock OEM Magazines
-- Tenicor Malus Sol Concealment Holster
-- Safariland 6390 RDS holster, mid-ride UBL plate. The Safariland numbering system is asinine and the last number is just what mounting hardware it comes with. Light bearing housing is also irrelevant, 63xx RDS for a Streamlight or Surefire? Doesn't matter, they're the same holster.
-
+  
 Load Bearing:
 - Crye SPC in Multicam, size yourself; downsize on the Airlite Structural Bund so if you're a medium, get a small bund. If your plate size is a small, get some scissors  for the bund.
 - Crye M4 detachable flap (Crye stuff is all compatible so it's likely listed under the AVS suite on the site. I suggest you explore the site.)
@@ -69,7 +79,11 @@ To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOC
 
 
 ## Secondary Weapon
-Glock 47 with a Surefire X300-A Turbo and SRO
+
+This is probably the most important part of your kit as a civilian, it's the gun you carry day to day and the more likely to be used. Pistols are way harder to master and requires constant dry practice to prevent atrophy; bright side is, most skills learned under pistol transfer to rifle so a good pistol shooter is generally a good rifle shooter.
+
+
+Glock 47 with a Surefire X300-A Turbo and SRO, this is the only pistol set up you should consider at the moment.
 
 
 ### "oh but I think x has a better trigger" blow it out your ass it does not matter, the differences are negligible or the alternative has it's own faults.
@@ -85,9 +99,9 @@ The important part of being a fighting group or at least a group that trains tog
 
 MOS means it's precut for optics.
 
-Now to the part where people get hung up, optics for your pistol. Trijicon, Leupold DPP, Aimpoint, Holosun, those are the only brands you need to consider. 
+If you already have a dedicated carry gun or have a tiny pistol in mind then a 19 is irrelevant to you. Carrying a full sized glock is also fairly easy, the difference in size is not that big so don't think too hard on min-maxing. 
 
-If you already have a dedicated carry gun or have a tiny pistol in mind then a 19 is irrelevant to you. Carrying a full sized glock is also fairly easy, the difference in size is not that big so don't think too hard on min-maxing.
+Now to the part where people get hung up, optics for your pistol. Trijicon, Leupold DPP, Aimpoint, Holosun, those are the only brands you need to consider. 
 
 
 ## Rifle Optics
