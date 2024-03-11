@@ -106,6 +106,8 @@ Now to the part where people get hung up, optics for your pistol. Trijicon, Leup
 
 ## Rifle Optics
 
+![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/urgi007.jpg "")
+
 
 Red dot: Eotech, Aimpoint. Holosun if you're cheap, Done.
 
