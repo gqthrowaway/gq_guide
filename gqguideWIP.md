@@ -49,7 +49,7 @@ Load Bearing:
 - Crye SPC in Multicam, size yourself; downsize on the Airlite Structural Bund so if you're a medium, get a small bund. If your plate size is a small, get some scissors  for the bund.
 - Crye M4 detachable flap (Crye stuff is all compatible so it's likely listed under the AVS suite on the site. I suggest you explore the site.)
 - DON'T get the Crye Smart Pouches, they are not that good, because of an autistic feature they are floppy when mounted. The Maritime ones are better because they lack that feature.
-- AWS 50657 ASSAULT PACK in Multicam 
+- AWS 50657 ASSAULT PACK in Multicam. Alternatives are: AWS 50649, less features but cheaper and the Eagle BTAP/YOTE/Beaver Tail Assault Pack, tons of surplus ones on Ebay but they've going up in price, at current time do not pay more than $220~ and don't get a ratfucked one. T-Rex Arms might have solid color commercial models in stock. 
 - T-Rex Arms Quad Flap Chest Rig in Multicam
 - T-Rex Arms Speed Belt in Multicam
 - 2 x Spiritus or Shaw Concepts Elastic pistol magazine pouches for your belt.
