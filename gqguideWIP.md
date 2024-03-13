@@ -80,7 +80,7 @@ To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOC
 
 ## Secondary Weapon
 
-This is probably the most important part of your kit as a civilian, it's the gun you carry day to day and the most likely to be used. Pistols are way harder to master and requires constant dry practice to prevent atrophy; bright side is, most skills learned under pistol transfer to rifle so a good pistol shooter is generally a good rifle shooter.
+This is probably the most important part of your kit as a civilian, it's the gun you carry day to day and the most likely to be used. Pistols are way harder to master and requires constant dry practice to prevent atrophy; On the bright side, most skills learned under pistol transfer to rifle so a good pistol shooter is generally a good rifle shooter.
 
 
 Glock 47 with a Surefire X300-A Turbo and SRO, this is the only pistol set up you should consider at the moment.
@@ -105,6 +105,8 @@ Now to the part where people get hung up, optics for your pistol. Trijicon, Leup
 
 
 ## Rifle Optics
+
+
 
 ![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/urgi007.jpg "")
 
