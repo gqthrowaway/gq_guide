@@ -74,6 +74,34 @@ There are other lengths for more specialized guns, namely marksman rifles and .3
 
 To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOCOM issues: M4A1 URG-I or "Upper Reciever Group - Improved", if this rifle is good enough America's small teams of professionals that are proficient in full spectrum unconventional warfare, then it's good enough for you. The specifics are not important but it's just a mid-length gas tube, Government profile barrel with a Geissele Mk16 rail. The Super Duty variant is a commerical, debatably "improved" version. How easy! Now when your gang gets all together, there's no lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
 
+However, there is a caveat to the URGI Near Clone upper, it is expensive and it is cheaper to build it out yourself. While everyone should strive to have the knowledge of assembling and knowing the in's and out's of their personal fighting rifle, not everyone is capable. There is no shame in wanting to pay the premium for a worry-free pre-assembled rifle.
+
+#### With knowledge comes responsibility; DO NOT start min-maxing your rifle build.
+
+[Alternative Upper Suggestion: 14.5 Mid Length BCM Mk2, at current time of March 2024, they are including a free bolt carrier group.](https://bravocompanyusa.com/bcm-mk2-standard-14-5-mid-length-complete-upper-receiver-group-w-raider-m13-handguard/)
+
+Approved Parts List for semi-standardized Rifle:
+- Geissele 13.5 MK16 or 13.5 MK4 in DDC
+- Geissele Airborne Charging Handle in DDC
+- 14.5 Mid Length Government Profile Barrel, Examples: [14.5 Centurion Midweight Hammer Forged Barrel, Midlength](https://centurionarms.com/lightweight-hammer-forged-barrel-midlength/) or [Daniel Defense](https://danieldefense.com/14-5-5-56mm-1-7-gov-profile.html). Get a gas tube, gas block, and A2 muzzle device. Muzzle device will be replaced later on but it's always good to have a spare A2 on hand.
+- [CM4 5.56 Forged Upper Receiver](https://centurionarms.com/cm4-5-56-forged-upper-receiver/) Milspec, assembled.
+- [CM4 5.56 Forged Lower Receiver](https://centurionarms.com/cm4-5-56-forged-lower-receiver/) Milspec, assembled, no stock.
+- [Centurion Bolt Carrier Group](https://centurionarms.com/bolt-carrier-group/) or alternatively a [Colt Bolt Carrier Group](https://armsunlimited.com/colt-ar15-complete-bolt-carrier-group-assembly/), 
+
+Approved Brands for parts:
+- FN (They OEM barrels for many companies so ideally do your research)
+- BCM
+- Magpul
+- Aero (avoid their barrels)
+- Colt
+- Geissele
+- Daniel Defense Barrels
+- Centurion
+
+To avoid confusion or decision paralysis, the list is intended to be short and only provide what is needed. Microbrands and new start-ups are not on the list to avoid consideration of marketing nonsense and fad items.
+
+Note: I am not biased towards Centurion Arms and I am not affliated in any way. They're simply one-stop-shop for quality parts which makes it easier for you. You are free to shop around on your own for the brands I listed. As comparison, Aero recievers are only marginally cheaper and their barrels are not very good. Or if you wanted a comparible barrel from a big brand name like Daniel Defence, FN, or LMT, they'd cost about the same and likely do not include a gas system without an add-on fee. 
+
 
 [T-Rex Arms has a page on his URGI build](https://help.trex-arms.com/hc/en-us/articles/4409384763671-14-5-URGI-Loadout)
 
