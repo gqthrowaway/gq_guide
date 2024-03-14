@@ -86,7 +86,8 @@ Approved Parts List for semi-standardized Rifle:
 - 14.5 Mid Length Government Profile Barrel, Examples: [14.5 Centurion Midweight Hammer Forged Barrel, Midlength](https://centurionarms.com/lightweight-hammer-forged-barrel-midlength/) or [Daniel Defense](https://danieldefense.com/14-5-5-56mm-1-7-gov-profile.html). Get a gas tube, gas block, and A2 muzzle device. Muzzle device will be replaced later on but it's always good to have a spare A2 on hand.
 - [CM4 5.56 Forged Upper Receiver](https://centurionarms.com/cm4-5-56-forged-upper-receiver/) Milspec, assembled.
 - [CM4 5.56 Forged Lower Receiver](https://centurionarms.com/cm4-5-56-forged-lower-receiver/) Milspec, assembled, no stock.
-- [Centurion Bolt Carrier Group](https://centurionarms.com/bolt-carrier-group/) or alternatively a [Colt Bolt Carrier Group](https://armsunlimited.com/colt-ar15-complete-bolt-carrier-group-assembly/), 
+- [Centurion Bolt Carrier Group](https://centurionarms.com/bolt-carrier-group/) or alternatively a [Colt Bolt Carrier Group](https://armsunlimited.com/colt-ar15-complete-bolt-carrier-group-assembly/),
+- H2 weight buffer
 
 Approved Brands for parts:
 - FN (They OEM barrels for many companies so ideally do your research)
