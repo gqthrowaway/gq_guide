@@ -72,7 +72,7 @@ There are other lengths for more specialized guns, namely marksman rifles and .3
 
 11.5 specifically is the min-maxed length for shorter engagements and sits right before lengths like 10.3/5 where potential issues arise regarding suppressor usage, gasing, backpressure, flash, rounds not being as effective, etc.
 
-To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOCOM issues: M4A1 URG-I or "Upper Reciever Group - Improved", if this rifle is good enough America's small teams of professionals that are proficient in full spectrum unconventional warfare, then it's good enough for you. The specifics are not important but it's basically just a mid-length gas tube, Government profile barrel with a Geissele Mk16 rail. The Super Duty variant is a commerical, debatably "improved" version. How easy! Now when your gang gets all together, there's no lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
+To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOCOM issues: M4A1 URG-I or "Upper Reciever Group - Improved", if this rifle is good enough America's small teams of professionals that are proficient in full spectrum unconventional warfare, then it's good enough for you. The specifics are not important but it's just a mid-length gas tube, Government profile barrel with a Geissele Mk16 rail. The Super Duty variant is a commerical, debatably "improved" version. How easy! Now when your gang gets all together, there's no lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
 
 
 [T-Rex Arms has a page on his URGI build](https://help.trex-arms.com/hc/en-us/articles/4409384763671-14-5-URGI-Loadout)
