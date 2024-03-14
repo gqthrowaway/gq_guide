@@ -107,7 +107,7 @@ Now to the part where people get hung up, optics for your pistol. Trijicon, Leup
 
 I personally recommend the Trijicon 5MOA SRO as it's the only American made red dot with huge window and long track record. The SRO is a larger window competition variant of the RMR which the current SOCOM standard handgun optic and the RMR has been the most durable dot over time on the market due to a patented housing and glass shape. That being said, while plenty durable and reliable, the SRO does not have either of those durable design aspects and there are records it's glass popping out at round counts upwards of 5000, Trijicon will cover it no problem and the optic itself is not very expensive comparatively, so I consider it a non issue for our purposes as they are reliable otherwise.
 
-The only other challenger is the Chinese Holosun 507Comp, Holosun has a decent record but I cannot recommend the 507Comp in good faith since it's only been out for half a year at the time of writing (March '24) and it's only marginally cheaper as a competitor. 
+The only other challenger is the Chinese Holosun 507Comp, Holosun has a decent record but I cannot recommend the 507Comp in good faith since it's only been out for half a year at the time of writing (March '24) and it's only marginally cheaper as a competitor to the SRO.
 
 
 ## Rifle Optics
