@@ -99,7 +99,7 @@ The important part of being a fighting group or at least a group that trains tog
 
 MOS means it's precut for optics however companies offer services to have pistol slides cut if it's not MOS. Some people do that since the optic sits lower, looks better, etc but ultimately it doesn't matter.
 
-If you already have a dedicated carry gun or have a tiny pistol in mind then, in my opinion, a 19 is irrelevant to you. Carrying a full sized glock is fairly easy, the difference in size is not that big but some people just like a smaller gun. Don't think too hard on min-maxing a single pistol.
+If you already have a dedicated carry gun or have a tiny pistol in mind then, in my opinion, a 19 is irrelevant to you. Carrying a full sized glock is fairly easy, the difference in size is not that big but some people just like a smaller gun or just have large balls. Don't think too hard on min-maxing a single pistol.
 
 ### Pistol Optic
 
