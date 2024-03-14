@@ -60,7 +60,7 @@ Load Bearing:
 # Primary and Secondary Fighting Weapon
 
 ## Primary Weapon
-Your rifle and sidearm are the basis of you being an effective combatant; this where many fall into folly of making a super personalized rifle and pistol in an attempt to either differentiate or tailor for their environment/usecase when they can barely shoot or move effectively. This mindset is entirely wrong, the miniscule improvements in fancy parts is irrelevant and usually they have their own downsides; US Army Natick Labs, NSWC Crane, JFKSWCS, Range 37, EOTG, FBI, etc all spend billions of your tax dollars in having TBI-riddled service members and melvins research close-to-optimal fighting solutions, whether or not that research is fielded or realized is a different story. 
+Your rifle and sidearm are the basis of you being an effective combatant; this where many fall into folly of making a super personalized rifle and pistol in an attempt to either differentiate or tailor for their environment/usecase when they can barely shoot or move effectively. This mindset is entirely wrong, the miniscule improvements in fancy parts is irrelevant and usually they have their own downsides; US Army Natick Labs, NSWC Crane, JFKSWCS, Range 37, EOTG, FBI, etc all spend billions of your tax dollars in having TBI-riddled service members and pencil-neck melvins research close-to-optimal fighting solutions, whether or not that research is fielded or realized is a different story. 
 
 ### To make this simple, functionally speaking for a 5.56 AR-15, a 14.5 and/or an 11.5 upper and one lower will cover all your basic needs. 16 instead of 14.5 if you want no ATF legal grey area. 
 
