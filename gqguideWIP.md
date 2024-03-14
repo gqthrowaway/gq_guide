@@ -86,7 +86,9 @@ This is probably the most important part of your kit as a civilian, it's the gun
 Glock 47 with a Surefire X300-A Turbo and SRO, this is the only pistol set up you should consider at the moment.
 
 
-### "oh but I think x has a better trigger" blow it out your ass it does not matter, the differences are negligible or the alternative has it's own faults.
+### "oh but I think x has a better trigger" blow it out your ass it does not matter, the differences are negligible or the alternative has it's own faults
+
+"Glock: Perfection" is not a hyperbole, if you ever have the time, I recommend reading up on the history behind the Glock and it's inventor. Glock continously has managed to do the most, with the least. It uses the least amount of parts and has had the least amount of internal changes while still being functionally top dog in the pistol world. Only the P320 has come close in recent time as a rival to the Glock and this has only been made true due to lobbying and undercutting the competition as a massively inferior pistol with serious issues. 
 
 The important part of being a fighting group or at least a group that trains together is uniformity. Parts breakage, familiarity, and compatability with aftermarket as well as each others equipment as a group. You forget a magazine or battery? No problem, your buddy has one.
 
