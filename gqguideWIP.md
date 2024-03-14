@@ -26,7 +26,7 @@ Order of relevance:
 Pistol:
 - Glock 47 MOS
 - Surefire X300-A Turbo
-- Trijicon SRO
+- Trijicon SRO 5MOA
 - FCD optic plate for the SRO
 - 5 x Glock OEM Magazines
 - Tenicor Malus Sol Concealment Holster
@@ -101,7 +101,13 @@ MOS means it's precut for optics however companies offer services to have pistol
 
 If you already have a dedicated carry gun or have a tiny pistol in mind then, in my opinion, a 19 is irrelevant to you. Carrying a full sized glock is fairly easy, the difference in size is not that big but some people just like a smaller gun. Don't think too hard on min-maxing. 
 
-Now to the part where people get hung up, optics for your pistol. Trijicon, Leupold DPP, Aimpoint, Holosun, those are the only brands you need to consider. 
+### Pistol Optic
+
+Now to the part where people get hung up, optics for your pistol. Trijicon, Leupold DPP, Aimpoint, Holosun, those are the only brands you need to consider.
+
+I personally recommend the Trijicon 5MOA SRO as it's the only American made red dot with huge window and long track record. The SRO is a larger window competition variant of the RMR which the current SOCOM standard handgun optic and the RMR has been the most durable dot over time on the market due to a patented housing and glass shape. That being said, while plenty durable and reliable, the SRO does not have either of those durable design aspects and there are records it's glass popping out at round counts upwards of 5000, Trijicon will cover it no problem and the optic itself is not very expensive comparatively, so I consider it a non issue for our purposes as they are reliable otherwise.
+
+The only other challenger is the Chinese Holosun 507Comp, Holosun has a decent record but I cannot recommend the 507Comp in good faith since it's only been out for half a year at the time of writing (March '24) and it's only marginally cheaper as a competitor. 
 
 
 ## Rifle Optics
