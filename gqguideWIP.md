@@ -145,6 +145,7 @@ The only other challenger is the Chinese Holosun 507Comp, Holosun has a decent r
 
 ## Rifle Optics
 
+This goes into a separate section as it's much more of a complicated topic.
 
 
 ![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/urgi007.jpg "")
