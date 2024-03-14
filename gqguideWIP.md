@@ -81,7 +81,7 @@ However, there is a caveat to the URGI Near Clone upper, it is expensive and you
 [Alternative Upper Suggestion: 14.5 Mid Length BCM Mk2, at current time of March 2024, they are including a free bolt carrier group.](https://bravocompanyusa.com/bcm-mk2-standard-14-5-mid-length-complete-upper-receiver-group-w-raider-m13-handguard/)
 
 Approved Parts List for semi-standardized Rifle:
-- Geissele 13.5 MK16 or 13.5 MK4 in DDC
+- Geissele 13.5 MK16
 - Geissele Airborne Charging Handle in DDC
 - 14.5 Mid Length Government Profile Barrel, Examples: [14.5 Centurion Midweight Hammer Forged Barrel, Midlength](https://centurionarms.com/lightweight-hammer-forged-barrel-midlength/) or [Daniel Defense](https://danieldefense.com/14-5-5-56mm-1-7-gov-profile.html). Get a gas tube, gas block, and A2 muzzle device. Muzzle device will be replaced later on but it's always good to have a spare A2 on hand.
 - [CM4 5.56 Forged Upper Receiver](https://centurionarms.com/cm4-5-56-forged-upper-receiver/) Milspec, assembled.
