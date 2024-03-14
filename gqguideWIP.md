@@ -34,15 +34,15 @@ Pistol:
 
 
 Rifle: 
-- 14.5 URGI Upper
+- 14.5 near-clone URGI Upper
 - Holosun 403R
 - Magnifier can come later
 - Surefire M640DFT PRO (As of March '24)
-- Geissele SSA
 - Lower reciever does not matter but I recommend a completed AERO or BCM lower. Should not cost more than $450 (March '24)
 - If your lower does not have a stock or grip, Magpul. Milspec SLS, SLK, or CTR.
 - 15 x Magpul Gen 3 PMAGs
 - Blue Force Gear Vickers Sling
+ - Geissele SSA
 
   
 Load Bearing:
@@ -62,6 +62,8 @@ Load Bearing:
 ## Primary Weapon
 Your rifle and sidearm are the basis of you being an effective combatant; this where many fall into folly of making a super personalized rifle and pistol in an attempt to either differentiate or tailor for their environment/usecase when they can barely shoot or move effectively. This mindset is entirely wrong, the miniscule improvements in fancy parts is irrelevant and usually they have their own downsides; US Army Natick Labs, NSWC Crane, JFKSWCS, Range 37, EOTG, FBI, etc all spend billions of your tax dollars in having TBI-riddled service members and pencil-neck melvins research close-to-optimal fighting solutions, whether or not that research is fielded or realized is a different story. 
 
+![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/IMG_8372.jpg "")
+
 ### To make this simple, functionally speaking for a 5.56 AR-15, a 14.5 and/or an 11.5 upper and one lower will cover all your basic needs. 16 instead of 14.5 if you want no ATF legal grey area. 
 
 There are other lengths for more specialized guns, namely marksman rifles and .300BO/concealable rifles but these are not a concern for anyone reading this guide at the moment.
@@ -70,12 +72,10 @@ There are other lengths for more specialized guns, namely marksman rifles and .3
 
 11.5 specifically is the min-maxed length for shorter engagements and sits right before lengths like 10.3/5 where potential issues arise regarding suppressor usage, gasing, backpressure, flash, rounds not being as effective, etc.
 
-To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOCOM issues: M4A1 URG-I or "Upper Reciever Group - Improved", if this rifle is good enough America's small teams of professionals that are proficient in full spectrum unconventional warfare, then it's good enough for you. The specifics are not important but it's basically just a mid-length gas tube, Government profile barrel with a Geissele Mk16 rail. The Super Duty variant is a commerical, debatably "improved" version. The reciever does not really matter. How easy! Now when your gang gets all together, there's no lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
+To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOCOM issues: M4A1 URG-I or "Upper Reciever Group - Improved", if this rifle is good enough America's small teams of professionals that are proficient in full spectrum unconventional warfare, then it's good enough for you. The specifics are not important but it's basically just a mid-length gas tube, Government profile barrel with a Geissele Mk16 rail. The Super Duty variant is a commerical, debatably "improved" version. How easy! Now when your gang gets all together, there's no lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
 
-![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/IMG_8372.jpg "")
 
 [T-Rex Arms has a page on his URGI build](https://help.trex-arms.com/hc/en-us/articles/4409384763671-14-5-URGI-Loadout)
-
 
 
 ## Secondary Weapon
@@ -108,9 +108,10 @@ If you already have a dedicated carry gun or have a tiny pistol in mind then, in
 
 Now to the part where people get hung up, optics for your pistol. Trijicon, Leupold DPP, Aimpoint, Holosun, those are the only brands you need to consider.
 
-I personally recommend the Trijicon 5MOA SRO as it's the only American made red dot with huge window and long track record. The SRO is a larger window competition variant of the RMR which the current SOCOM standard handgun optic and the RMR has been the most durable dot over time on the market due to a patented housing and glass shape. That being said, while plenty durable and reliable, the SRO does not have either of those durable design aspects and there are records it's glass popping out at round counts upwards of 5000, Trijicon will cover it no problem and the optic itself is not very expensive comparatively, so I consider it a non issue for our purposes as they are reliable otherwise.
+The Trijicon 5MOA SRO as it's the only American made red dot with huge window and long track record. The SRO is a larger window competition variant of the RMR which the current SOCOM standard handgun optic and the RMR has been the most durable dot over time on the market due to a patented housing and glass shape. That being said, while plenty durable and reliable, the SRO does not have either of those durable design aspects and there are records it's glass popping out at round counts upwards of 5000, Trijicon will cover it no problem and the optic itself is not very expensive comparatively, it is a non issue for your purposes as they are reliable otherwise.
 
 The only other challenger is the Chinese Holosun 507Comp, Holosun has a decent record but I cannot recommend the 507Comp in good faith since it's only been out for half a year at the time of writing (March '24) and it's only marginally cheaper as a competitor to the SRO.
+
 
 
 ## Rifle Optics
