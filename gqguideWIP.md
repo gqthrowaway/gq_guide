@@ -101,7 +101,7 @@ Approved Brands for parts:
 
 To avoid confusion or decision paralysis, the list is intended to be short and only provide what is needed. Microbrands and new start-ups are not on the list to avoid consideration of marketing nonsense and fad items.
 
-Note: I am not biased towards Centurion Arms and I am not affliated in any way. They're simply one-stop-shop for quality parts which makes it easier for you. You are free to shop around on your own for the brands I listed. As comparison, Aero recievers are only marginally cheaper and their barrels are not very good. Or if you wanted a comparible barrel from a big brand name like Daniel Defence, FN, or LMT, they'd cost about the same and likely do not include a gas system without an add-on fee. 
+Note: I am not shilling Centurion Arms and I am not affliated in any way. They are high quality and simply sell everything you need which makes it easier for you if everything is in stock. You are free to shop around on your own for the brands I listed. As comparison, Aero recievers are only marginally cheaper and their barrels are not very good. Or if you wanted a comparible barrel from a big brand name like Daniel Defence, FN, or LMT, they'd cost about the same and likely do not include a gas system without an add-on fee. 
 
 
 [T-Rex Arms has a page on his URGI build](https://help.trex-arms.com/hc/en-us/articles/4409384763671-14-5-URGI-Loadout)
