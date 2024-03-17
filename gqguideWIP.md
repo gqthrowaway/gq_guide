@@ -34,7 +34,7 @@ Pistol:
 
 
 Rifle: 
-- 14.5 near-clone URGI Upper
+- [14.5 near-clone URGI Upper](https://www.brownells.com/gun-parts/rifle-parts/rifle-receivers-parts/mk16-urg-i-complete-upper-receivers-5.56mm/?sku=430103890)
 - Holosun 403R
 - Magnifier can come later
 - Surefire M640DFT PRO (As of March '24)
