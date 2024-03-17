@@ -74,7 +74,7 @@ There are other lengths for more specialized guns, namely marksman rifles and .3
 
 To make this even simpler, you can directly just copy the 14.5 and 11.5 that SOCOM issues: [M4A1 URG-I or "Upper Reciever Group - Improved"](https://www.brownells.com/gun-parts/rifle-parts/rifle-receivers-parts/mk16-urg-i-complete-upper-receivers-5.56mm/?sku=430103890), if this rifle is good enough America's small teams of professionals that are proficient in full spectrum unconventional warfare, then it's good enough for you. The specifics are not important but it's just a mid-length gas tube, Government profile barrel with a Geissele Mk16 rail. The Super Duty variant is a commerical, debatably "improved" version. How easy! Now when your gang gets all together, there's no lack of interchangability and you'll look like professionals, some might even say "aesthetic". 
 
-However, there is a caveat to the URGI Near Clone upper, it is expensive and you'll save yourself about $500 to build it yourself. While everyone should strive to have the knowledge of assembling and knowing the in's and out's of their personal fighting rifle, not everyone is capable. There is no shame in wanting to pay the premium for a worry-free pre-assembled rifle.
+However, there is a caveat to the URGI Near Clone upper, it is expensive and but ultimately you'll only save yourself about $300 to build it yourself. While everyone should strive to have the knowledge of assembling and knowing the in's and out's of their personal fighting rifle, not everyone is capable. There is no shame in wanting to pay the premium for a worry-free pre-assembled rifle.
 
 #### With knowledge comes responsibility; DO NOT start min-maxing your rifle build.
 
