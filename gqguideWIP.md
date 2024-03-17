@@ -6,7 +6,7 @@ General guidelines for setting up your equipment on the individual level as well
 
 This guide will also explain the "Why" for those who are interested but this guide will NOT cover or recommend specific equipment for specialized or personalized purposes. 
 
-Towards the end of the guide I will list brands, however it is up to the reader to do the shopping and if you need help using Google and online shopping, you are useless to begin with.
+Towards the end of the guide I will list brands, however it is up to the reader to do the shopping as a lot of recommendations do go on sale and if you need help using Google and online shopping, you are useless to begin with.
 
 
 ### Go get a 14.5 URGI upper and a Crye SPC, end of guide.
@@ -38,11 +38,11 @@ Rifle:
 - Holosun 403R
 - Magnifier can come later
 - Surefire M640DFT PRO (As of March '24)
-- Lower reciever does not matter but I recommend a completed AERO or BCM lower. Should not cost more than $450 (March '24)
+- Lower reciever does not matter but I recommend an assembled MILSPEC AERO or BCM lower. Should not cost more than $450 (March '24)
 - If your lower does not have a stock or grip, Magpul. Milspec SLS, SLK, or CTR.
-- 15 x Magpul Gen 3 PMAGs
+- 15 x Magpul Gen 3 PMAGs. 15 is mostly an arbitrary number but 6-8 Magazines is a standard combat load plus a 4~ spares in a pack. On top of that you should have spares on hand if you lose or break any, a 1-2 for your belt, empty training magazines, etc. 
 - Blue Force Gear Vickers Sling
- - Geissele SSA
+- Geissele SSA
 
   
 Load Bearing:
