@@ -9,7 +9,7 @@ This guide will also explain the "Why" for those who are interested but this gui
 Towards the end of the guide I will list brands, however it is up to the reader to do the shopping as a lot of recommendations do go on sale and if you need help using Google and online shopping, you are useless to begin with.
 
 
-### Go get a 14.5 URGI upper and a Crye SPC, end of guide.
+### Go get a 14.5 URGI upper, Glock 47 MOS, and a Crye SPC, end of guide.
 
 Kidding, but you are free to take that advice, it's closer to optimal than people think. Continued later on in the guide.
 
@@ -48,7 +48,7 @@ Rifle:
 Load Bearing:
 - Crye SPC in Multicam, size yourself; downsize on the Airlite Structural Bund so if you're a medium, get a small bund. If your plate size is a small, get some scissors  for the bund.
 - Crye M4 detachable flap (Crye stuff is all compatible so it's likely listed under the AVS suite on the site. I suggest you explore the site.)
-- DON'T get the Crye Smart Pouches, they are not that good, because of an autistic feature they are floppy when mounted. The Maritime ones are better because they lack that feature.
+- DON'T get the Crye Smart Pouches, they are not that good, because of an autistic feature they are floppy when mounted. The Maritime ones are better because they lack that feature but Spiritus sells a better version overall and has more variety.
 - AWS 50657 ASSAULT PACK in Multicam. Alternatives are: AWS 50649, less features but cheaper and the Eagle BTAP/YOTE/Beaver Tail Assault Pack, tons of surplus ones on Ebay but they've going up in price, at current time do not pay more than $220~ and don't get a ratfucked one. T-Rex Arms might have solid color commercial models in stock. 
 - T-Rex Arms Quad Flap Chest Rig in Multicam
 - T-Rex Arms Speed Belt in Multicam
@@ -58,6 +58,40 @@ Load Bearing:
 
 
 # Primary and Secondary Fighting Weapon
+
+## Secondary Weapon
+
+This is probably the most important part of your kit as a civilian, it's the gun you carry day to day and the most likely to be used. Pistols are way harder to master and requires constant dry practice to prevent atrophy; On the bright side, most skills learned under pistol transfer to rifle so a good pistol shooter is generally a good rifle shooter.
+
+
+Glock 47 with a Surefire X300-A Turbo and SRO, this is the only pistol set up you should consider at the moment.
+
+
+### "oh but I think x has a better trigger" blow it out your ass, it does not matter
+
+
+"Glock: Perfection" is not a hyperbole, if you ever have the time, I recommend reading up on the history behind the Glock and it's inventor. Glock continously has managed to do the most, with the least. It uses the least amount of parts and has had the least amount of internal changes while still being functionally top dog in the pistol world. Only the P320 has come close in recent time as a rival to the Glock and this has only been made true due to lobbying and undercutting the competition as a massively inferior pistol with serious issues. 
+
+An important part of being a fighting group or at least a group that trains together is uniformity. Parts breakage, familiarity, and compatability with aftermarket as well as each others equipment as a group. You forget a magazine or need to battery? No problem, your buddy has one.
+
+![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/glock47example01.jpg "")
+
+
+19 is compact, don't even consider the 26 subcompact.
+
+17 or the newer 47, normal full sized handgun.
+
+MOS means it's precut for optics however companies offer services to have pistol slides cut if it's not MOS. Some people do that since the optic sits lower, looks better, etc but ultimately it doesn't matter.
+
+If you already have a dedicated carry gun or have a tiny pistol in mind then, in my opinion, a 19 is irrelevant to you. Carrying a full sized glock is fairly easy, the difference in size is not that big but some people just like a smaller gun or just have large balls. Don't think too hard on min-maxing a single pistol that retains most of it's value.
+
+### Pistol Optic
+
+Now to the part where people get hung up, optics for your pistol.
+
+The Trijicon 5MOA SRO as it's the only American made red dot with huge window and long track record. The SRO is a larger window competition variant of the RMR which the current SOCOM standard handgun optic and the RMR has been the most durable dot over time on the market due to a patented housing and glass shape.
+
+People get hung up on getting the perfect dot the first time and start theory crafting nonsense up, but Trijicon is the only company that offers all types of dots all on the same footprint so if you so decide later on you'd prefer a closed dot, no problem, don't even need to buy a new mounting plate. 
 
 ## Primary Weapon
 Your rifle and sidearm are the basis of you being an effective combatant; this where many fall into folly of making a super personalized rifle and pistol in an attempt to either differentiate or tailor for their environment/usecase when they can barely shoot or move effectively. This mindset is entirely wrong, the miniscule improvements in fancy parts is irrelevant and usually they have their own downsides; US Army Natick Labs, NSWC Crane, JFKSWCS, Range 37, EOTG, Quanitco, FBI, etc all spend billions of your tax dollars in having TBI-riddled service members and pencil-neck melvins research close-to-optimal fighting solutions, whether or not that research is fielded or realized is a different story. 
@@ -105,41 +139,6 @@ Note: I am not shilling Centurion Arms and I am not affliated in any way. They a
 
 
 [T-Rex Arms has a page on his URGI build](https://help.trex-arms.com/hc/en-us/articles/4409384763671-14-5-URGI-Loadout)
-
-
-## Secondary Weapon
-
-This is probably the most important part of your kit as a civilian, it's the gun you carry day to day and the most likely to be used. Pistols are way harder to master and requires constant dry practice to prevent atrophy; On the bright side, most skills learned under pistol transfer to rifle so a good pistol shooter is generally a good rifle shooter.
-
-
-Glock 47 with a Surefire X300-A Turbo and SRO, this is the only pistol set up you should consider at the moment.
-
-
-### "oh but I think x has a better trigger" blow it out your ass it does not matter
-
-
-"Glock: Perfection" is not a hyperbole, if you ever have the time, I recommend reading up on the history behind the Glock and it's inventor. Glock continously has managed to do the most, with the least. It uses the least amount of parts and has had the least amount of internal changes while still being functionally top dog in the pistol world. Only the P320 has come close in recent time as a rival to the Glock and this has only been made true due to lobbying and undercutting the competition as a massively inferior pistol with serious issues. 
-
-The important part of being a fighting group or at least a group that trains together is uniformity. Parts breakage, familiarity, and compatability with aftermarket as well as each others equipment as a group. You forget a magazine or battery? No problem, your buddy has one.
-
-![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/glock47example01.jpg "")
-
-
-19 is compact, don't even consider the 26 subcompact.
-
-17 or the newer 47, normal full sized handgun.
-
-MOS means it's precut for optics however companies offer services to have pistol slides cut if it's not MOS. Some people do that since the optic sits lower, looks better, etc but ultimately it doesn't matter.
-
-If you already have a dedicated carry gun or have a tiny pistol in mind then, in my opinion, a 19 is irrelevant to you. Carrying a full sized glock is fairly easy, the difference in size is not that big but some people just like a smaller gun or just have large balls. Don't think too hard on min-maxing a single pistol.
-
-### Pistol Optic
-
-Now to the part where people get hung up, optics for your pistol. Trijicon, Leupold DPP, Aimpoint, Holosun, those are the only brands you need to consider.
-
-The Trijicon 5MOA SRO as it's the only American made red dot with huge window and long track record. The SRO is a larger window competition variant of the RMR which the current SOCOM standard handgun optic and the RMR has been the most durable dot over time on the market due to a patented housing and glass shape. That being said, while plenty durable and reliable, the SRO does not have either of those durable design aspects and there are records it's glass popping out at round counts upwards of 5000, Trijicon will cover it no problem and the optic itself is not very expensive comparatively, it is a non issue for your purposes as they are reliable otherwise.
-
-The only other challenger is the Chinese Holosun 507Comp, Holosun has a decent record but I cannot recommend the 507Comp in good faith since it's only been out for half a year at the time of writing (March '24) and it's only marginally cheaper as a competitor to the SRO.
 
 
 
