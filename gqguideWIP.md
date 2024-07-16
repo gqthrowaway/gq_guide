@@ -61,7 +61,7 @@ Load Bearing:
 
 ## Secondary Weapon
 
-![glock](https://github.com/gqthrowaway/gq_guide/blob/main/Images/glock47glock010.jpg "")
+![glock](https://github.com/gqthrowaway/gq_guide/blob/main/Images/glock010.jpg "")
 
 This is probably the most important part of your kit as a civilian, it's the gun you carry day to day and the most likely to be used. Pistols are way harder to master and requires constant dry practice to prevent atrophy; On the bright side, most skills learned under pistol transfer to rifle so a good pistol shooter is generally a good rifle shooter.
 
