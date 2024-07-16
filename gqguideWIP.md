@@ -77,7 +77,7 @@ There's not a big variance in pistol performance which is why there's no reason 
 
 "Glock: Perfection" is not a hyperbole, if you ever have the time, I recommend reading up on the history behind the Glock and it's inventor. Glock continously has managed to do the most, with the least. It uses the least amount of parts and has had the least amount of internal changes while still being functionally top dog in the pistol world. Only the P320 has come close in recent time as a rival to the Glock and this has only been made true due to lobbying and undercutting the competition as a massively inferior pistol with serious issues that they silently covered up. 
 
-An important part of being a fighting group or at least a group that trains together is uniformity. Parts breakage, familiarity, and compatability with aftermarket as well as each others equipment as a group. You forget a magazine or need to battery? No problem, your buddy has one.
+An important part of being a fighting group or at least a group that trains together is uniformity. Parts breakage, familiarity, and compatability with aftermarket as well as each others equipment as a group. You forget a magazine or need a battery? No problem, your buddy has one.
 
 ![gang](https://github.com/gqthrowaway/gq_guide/blob/main/Images/glock47example01.jpg "")
 
