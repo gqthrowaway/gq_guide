@@ -86,7 +86,7 @@ An important part of being a fighting group or at least a group that trains toge
 
 17 or the newer 47, normal full sized handgun.
 
-MOS means it's precut for optics however companies offer services to have pistol slides cut if it's not MOS. Some people do that since the optic sits lower, looks better, etc but ultimately it doesn't matter.
+MOS is Glock's optic mounting system.
 
 If you already have a dedicated carry gun or have a tiny pistol in mind then, in my opinion, a 19 is irrelevant to you. Carrying a full sized glock is fairly easy, the difference in size is not that big but some people just like a smaller gun or just have large balls. Don't think too hard on min-maxing a single pistol that retains most of it's value.
 
