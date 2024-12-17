@@ -1,3 +1,5 @@
+![retards](https://github.com/gqthrowaway/gq_guide/blob/main/Images/GPRb8_LXIAABUzb.jpg "")
+
 Note: Read all of it before going erm we don't need this, some of these tasks are dependent on decisions.
 - [ ] Dates; Due January 31st
 - [ ] Location (If not Holley), Due February 31st
