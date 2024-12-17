@@ -31,7 +31,7 @@ Note: Read all of it before going erm we don't need this, some of these tasks ar
 - Potentially set dates on a long weekend but avoid large holidays like Thanksgiving.
 
 #### Long Weekends of 2025
-![[Pasted image 20241216174601.png]]
+![longweekends](https://github.com/gqthrowaway/gq_guide/blob/main/Images/longweekends.PNG "")
 
 
 
